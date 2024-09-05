@@ -1,0 +1,4 @@
+CREATE TABLE items (
+  id SERIAL PRIMARY KEY,
+  task VARCHAR(100) NOT NULL
+);
